@@ -1,0 +1,9 @@
+node-modules
+yarn-lock
+
+.env
+dist
+
+uploads/*
+!uploads/.gitkeep
+node_modules
